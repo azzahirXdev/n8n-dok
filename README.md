@@ -1,6 +1,6 @@
 # 🚀 Simple-n8n-installer 
 
-##### Simple-n8n-installer is a template for installing **n8n workflow** in docker with easy and fast setup and integration with ngrokxy
+##### Simple-n8n-installer is a template for installing **n8n workflow** in docker with easy and fast setup and integration with ngrok
 
 #### 📦 Clone repository
 
