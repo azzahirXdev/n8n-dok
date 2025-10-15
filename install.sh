@@ -12,6 +12,7 @@ sudo systemctl enable docker
 sudo systemctl start docker
 
 echo "Building and running N8N container..."
+sudo chown -R 1000:1000 ./n8n_data
 docker compose up -d
 
 echo "N8N is ready at: http://localhost:5678"

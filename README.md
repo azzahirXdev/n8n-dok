@@ -7,6 +7,7 @@
 ```
 git clone https://github.com/azzahirXdev/simple-n8n-installer
 cd simple-n8n-installer
+sudo chown -R 1000:1000 ./n8n_data
 ```
 
 #### 💖 Support
