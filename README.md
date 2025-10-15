@@ -11,6 +11,6 @@ cd simple-n8n-installer
 
 
 ##💖 Support
-[💖 Support me](https://saweria.co/andreazzahir)
+[💖click here](https://saweria.co/andreazzahir)
 
 ##Made with ❤️ by azzahirXdev
