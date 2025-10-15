@@ -4,8 +4,10 @@
 
 ##📦 Clone repository
 
-```git clone https://github.com/azzahirXdev/simple-n8n-installer
-cd simple-n8n-installer```
+```
+git clone https://github.com/azzahirXdev/simple-n8n-installer
+cd simple-n8n-installer
+```
 
 
 ##💖 Support
