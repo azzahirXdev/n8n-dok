@@ -7,7 +7,6 @@
 ```
 git clone https://github.com/azzahirXdev/simple-n8n-installer
 cd simple-n8n-installer
-sudo chown -R 1000:1000 ./n8n_data
 ```
 ### 🧩 Error Fix
 
@@ -20,7 +19,8 @@ To fix it, run:
 sudo chown -R 1000:1000 ./n8n_data
 ```
 Then restart the container
-```docker compose restart n8n
+```
+docker compose restart n8n
 ```
 
 #### 💖 Support
